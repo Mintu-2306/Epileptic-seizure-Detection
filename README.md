@@ -30,7 +30,7 @@ Epilepsy affects over 70 million people worldwide, and EEG (electroencephalogram
                              ▼
                   Binary Output: Seizure / Non-Seizure
 ```
-```yaml
+
 
 ---
 
