@@ -63,12 +63,6 @@ Epilepsy affects over 70 million people worldwide, and EEG (electroencephalogram
 - Multiclass classification for various seizure types
 - Integration with other modalities (e.g., MRI, heart rate)
 - Improved explainability using SHAP, Grad-CAM
-
-## 📎 Resources
-
-- 🔗 [Final Paper PDF](./Epilepsy_Final.pdf)
-- 📚 [Bonn EEG Dataset](https://epilepsy.uni-freiburg.de/freiburg-seizure-prediction-project/eeg-database)
-
 ---
 
 ## 📬 Contact
