@@ -31,6 +31,7 @@ Epilepsy affects over 70 million people worldwide, and EEG (electroencephalogram
                   Binary Output: Seizure / Non-Seizure
 ```
 
+![Alt Text](Normalization.png)
 
 ---
 
@@ -53,6 +54,7 @@ Epilepsy affects over 70 million people worldwide, and EEG (electroencephalogram
 - **Optimizer**: Adam
 - **Loss Function**: Binary Cross-Entropy
 - **Evaluation**: 4-fold Cross-Validation and Hold-Out Split
+![Alt Text](segment.jpg)
 
 ---
 
